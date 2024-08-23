@@ -2,8 +2,8 @@
 
 This project wrote with pascal language and built with rad studio 11
 Featuere in this project show below.
-<h3>Server Section</h3>
-- [x] Send Message from server to specific client. <br />
+### Server Section
+- [x] Send Message from server to specific client.
 - [x] Send File from server to all clients.
 
  
