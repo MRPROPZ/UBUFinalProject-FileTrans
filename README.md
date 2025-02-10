@@ -2,20 +2,19 @@
 
 This project wrote with pascal language and built with rad studio 11
 Featuere in this project show below.
-### Server Section
-- [x] Send Message from server to specific client.
-- [x] Send Message from server to all clients.
-- [ ] Send lock mouse and keyboard to specific client.
-- [ ] Send lock mouse and keyboard to all clients.
-- [ ] Send shutdown to specific client.
-- [ ] Send shutdown to all clients.
-- [ ] Send wakup on lan to specific client.
-- [ ] Send wakeup on lan to all clients.
-- [ ] Send Screen capture to server.
-- [ ] Send file to all clients.
+## Todolist
+- [] 1.Student setting ip, port and save path folder.
+- [] 2.Teacher setting port and save path folder.
+- [ ] 3.Student can't connect to server do reconnect. 
+- [ ] 4.Teacher send file to Student
+- [ ] 5.Studenet send file to Teacher.
+- [ ] 6.Check send file success.
+- [ ] 7.Teacher send text to Student.
+- [ ] 8.Student send text to Teacher.
+- [ ] 9.Check send text success.
+- [ ] 10.Teacher send shutdown pc.
+- [ ] 11.Check shutdown pc success.
+- [ ] 12.Teacher send lock mouse & keyboard.
+- [ ] 13. Check lock mouse & keyboard.
+      
 
-### Client Section
-- [x] Save file in .ini when reopen auto filled.
-- [ ] when reopen auto reconnect.
-- [ ] Send file to teacher.
-- [ ] Send
