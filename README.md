@@ -3,8 +3,8 @@
 This project wrote with pascal language and built with rad studio 11
 Featuere in this project show below.
 ## Todolist
-- [] 1.Student setting ip, port and save path folder.
-- [] 2.Teacher setting port and save path folder.
+- [ ] 1.Student setting ip, port and save path folder.
+- [ ] 2.Teacher setting port and save path folder.
 - [ ] 3.Student can't connect to server do reconnect. 
 - [ ] 4.Teacher send file to Student
 - [ ] 5.Studenet send file to Teacher.
