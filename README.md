@@ -31,7 +31,7 @@ To develop tools for distributing files within the computer lab.
 3. In both. If you log appear. this is ready to send/receive.
 
 ## Q&A
-- Question: How to open if program display it's dangerous file.
+- Question: How to open if program display it's dangerous file. <br />
   Ans: because this program is free and I not have money for buy ca certificate now.
 
 
