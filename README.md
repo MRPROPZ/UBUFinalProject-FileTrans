@@ -18,6 +18,10 @@ To develop tools for distributing files within the computer lab.
 - [x] 1. Send Message
 - [x] 2. Send File
 
+## How to download
+1. Client download clientproject.exe
+2. Server download serverproject.exe
+
 ## How to use
 1. Download zip file and unpack it and open program.
    - Server run serverproject.exe
