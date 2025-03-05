@@ -34,4 +34,5 @@ To develop tools for distributing files within the computer lab.
 - Question: How to open if program display it's dangerous file. <br />
   Ans: because this program is free and I not have money for buy ca certificate now.
 
-
+## Update Log
+- version 1.0.0 : add feature to send message, send file, shutdown, wake up on lan, lock mouse & keyboard, unlock mouse & keyboard.
